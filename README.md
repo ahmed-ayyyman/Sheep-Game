@@ -34,10 +34,6 @@ A simple web-based dice game for two players, inspired by the classic "Pig" game
 - `1600w-1bmbOEWAD7I.webp` – Background image
 - `.prettierrc` – Code formatting configuration
 
-## Screenshot
-
-![Game Screenshot](1600w-1bmbOEWAD7I.webp)
-
 ## License
 
 This project is for educational purposes.
