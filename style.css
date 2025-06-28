@@ -17,7 +17,7 @@ body {
   height: 100vh;
   color: #2f2f2f;
   background-image:
-    url('1600w-1bmbOEWAD7I.webp'),
+    url('assets/images/icons/1600w-1bmbOEWAD7I.webp'),
     linear-gradient(to top left, #87ceeb 0%, #98fb98 100%);
   background-repeat: repeat, no-repeat;
   background-size: 150px, cover;
@@ -32,13 +32,18 @@ main {
   position: relative;
   width: 100rem;
   height: 60rem;
-  background-color: rgba(255, 255, 255, 0.85);
-  backdrop-filter: blur(10px);
-  box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.2);
+  background-color: rgba(
+    220,
+    255,
+    220,
+    0.65
+  ); /* lighter, more transparent, greenish */
+  backdrop-filter: blur(16px);
+  box-shadow: 0 3rem 5rem rgba(0, 0, 0, 0.18);
   border-radius: 15px;
   overflow: hidden;
   display: flex;
-  border: 2px solid #4a6741;
+  border: 2px solid #8fd19e; /* softer green border */
 }
 
 .player {
