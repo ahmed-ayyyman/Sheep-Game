@@ -1,6 +1,6 @@
-# Pig Game
+# Sheep Game
 
-A simple web-based dice game for two players, inspired by the classic "Pig" game. The first player to reach 50 points wins!
+A simple web-based dice game for two players, inspired by the classic "Sheep" game. The first player to reach 50 points wins!
 
 ## Features
 
